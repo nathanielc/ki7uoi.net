@@ -26,7 +26,7 @@ However unless you already know what that is it is likely you are viewing this s
 So let's try something new: connect to this site using the IPFS network in two steps:
 
 1. Download and install the [Brave](https://brave.com/) browser
-2. [Open this link in Brave](ipfs://QmQRNZ8Vz9r6GLT2Gq6tPyZEDNh7KVwnwSYuYtEJGouH4i)
+2. [Open this link in Brave](ipfs://bafybeid67ux4amfz6n5bscpqgc43pexweiyj6q5hyn4ayum4fdjgqruv6y)
 
 Brave is one of the early adopters of this technology and they have implemented native support for connecting the IPFS network.
 There are many things different between the _centralized_ internet and the IPFS peer to peer network, we can cover those in a later post, but one thing they have in common are links.
