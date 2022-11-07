@@ -2,6 +2,8 @@ baseURL = "https://ki7uoi.net"
 languageCode = "en-us"
 title = "KI7UOI - Nathaniel Cook"
 theme = "net"
+paginate = 5
+relativeUrls = true
 
 [menu]
   [[menu.main]]
