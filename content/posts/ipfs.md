@@ -1,7 +1,7 @@
 ---
 title: "Modern Peer to Peer?"
 date: 2022-11-06T20:41:07-07:00
-draft: true
+draft: false
 tags: ["p2p"]
 ---
 
